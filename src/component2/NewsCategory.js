@@ -4,14 +4,7 @@ import { NavLink } from "react-router-dom";
 const NewsCategory = () => {
 
     /*
-    business
-    entertainment
-    general
-    health
-    science
-    sports
-    technology
-
+    business entertainment general health science sports technology
     카테고리 맵 회전
     */
 
